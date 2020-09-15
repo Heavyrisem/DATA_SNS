@@ -67,14 +67,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
-
-
-
-
-
-
-
     }
     void afterGetHttpResponse(String result){
         try {
